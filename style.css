@@ -75,6 +75,6 @@ body{
 
 .presentacion__imagen{
     width:600px;
-    
+    border: 10px inset #22D4FD;
     border-radius: 16px;
 }
